@@ -27,7 +27,10 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+<h1 align="center">Screenshots</h1>
+
+![Screen Shot](images/Screenshot-1.png)
+![Screen Shot](images/Screenshot-2.png)
 
 This web application is designed to help you manage your tasks efficiently and stay organized. Whether you're a busy professional, a student juggling multiple assignments, or just someone who likes to keep track of things, this app is for you.
 
